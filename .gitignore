@@ -168,5 +168,5 @@ pip-log.txt
 
 *.gitattributes
 *.gitignore
-bin/
-pkg/
+*.a
+*.exe
